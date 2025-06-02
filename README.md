@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IIIIXI-git
+- 👋 Hi, I’m @Muhammad Usman
 - 👀 I’m interested in ...Web development Projects
 - 🌱 I’m currently learning ...Java Script
 - 💞️ I’m looking to collaborate on ...Web Development Projexts
