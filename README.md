@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Muhammad Usman
 - 👀 I’m interested in ...Web development Projects
-- 🌱 I’m currently learning ...Java Script
+- 🌱 I’m currently learning ...Web Development
 - 💞️ I’m looking to collaborate on ...Web Development Projexts
 - 📫 How to reach me ...muhamusman47@outlook.com
 - 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ...I like coding at night mostly
+
 
 <!---
 IIIIXI-git/IIIIXI-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
