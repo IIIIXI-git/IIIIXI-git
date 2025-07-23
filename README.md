@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Web development Projects
 - 🌱 I’m currently learning ...Web Development
 - 💞️ I’m looking to collaborate on ...Web Development Projexts
-- 📫 How to reach me ...muhamusman47@outlook.com
+- 📫 How to reach me .muhamusman47@outlook.com
 - 😄 Pronouns: ...He/Him
 
 
