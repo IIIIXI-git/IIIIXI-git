@@ -5,8 +5,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=500&lines=I'm+learning+HTML;Exploring+CSS;Getting+into+JavaScript;Studying+Cybersecurity;Diving+into+Python" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=550&lines=Starting+with+HTML+basics;Styling+with+CSS;Adding+interactivity+using+JavaScript;Securing+the+web+with+Cybersecurity;Automating+things+with+Python" alt="Typing animation showing Usman's learning journey" />
 </p>
+
 
 ---
 
