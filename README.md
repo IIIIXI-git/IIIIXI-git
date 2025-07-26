@@ -1,30 +1,39 @@
-<h1 align="center">Hi 👋, I'm Muhammad Usman</h1>
-<h3 align="center">🌱 Learning Web Development & Cybersecurity</h3>
+
+
+<h1 align="center">
+  Hi there, I'm Muhammad Usman 👋
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&width=435&lines=Welcome+to+my+GitHub!;I'm+a+Web+Dev+Beginner.;Learning+Cybersecurity.;Let's+Build+Something+Cool!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=440&lines=I'm+learning+HTML;Now+HTML+%E2%9A%A1goes+off+with+CSS;Then+CSS+%E2%9A%A1goes+off+with+JavaScript;Now+I'm+into+Cybersecurity+%F0%9F%94%92;Also+exploring+Python+%F0%9F%90%8D" alt="Typing SVG" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 🙋‍♂️ About Me
 
-- 👀 I’m interested in Web Development Projects  
-- 🌱 I’m currently learning HTML, CSS, WordPress, Python, and Git  
-- 💬 Ask me about HTML & CSS basics  
-- 📫 How to reach me: **muhamusman47@outlook.com**  
-- 😄 Pronouns: He/Him  
+- 👨‍💻 I'm a Web Developer in the making
+- 🔍 Currently learning **HTML**, **CSS**, and **JavaScript**
+- 🌱 Also diving into **Cybersecurity** and **Python**
+- 📫 Reach me at: [muhamusman47@outlook.com](mailto:muhamusman47@outlook.com)
 
 ---
 
-### 📊 GitHub Stats
+### 🐍 Snake Eating My Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IIIIXI-git&show_icons=true&theme=tokyonight" />
+  <img src="https://raw.githubusercontent.com/IIIIXI-git/IIIIXI-git/output/github-contribution-grid-snake.svg" alt="snake eating my contributions" />
 </p>
 
 ---
 
-### ⚡ Fun Fact
+### 📌 Pinned Projects
 
-> “I’m just getting started… but I code like I mean it.” 😎
+<p align="center">
+  <a href="https://github.com/IIIIXI-git/login-html-css">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IIIIXI-git&repo=login-html-css&theme=dark" />
+  </a>
+  <a href="https://github.com/IIIIXI-git/portfolio-website-SMIT--430679-">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IIIIXI-git&repo=portfolio-website-SMIT--430679-&theme=dark" />
+  </a>
+</p>
