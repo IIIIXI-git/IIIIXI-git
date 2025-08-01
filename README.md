@@ -45,7 +45,11 @@
 ### 🐧 Operating Systems
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+
+
+ <img src="https://img.icons8.com/ios-filled/50/000000/mac-os.png" alt="macOS icon" width="40"/>
 </p>
+
 
 ### 🔗 Version Control & IDE
 <p>
@@ -60,17 +64,22 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=codedotusman&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codedotusman&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
-</p>
 
+---
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=codedotusman&theme=tokyo-night" alt="activity graph"/>
+
+---
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=codedotusman&theme=tokyonight)](https://github.com/codedotusman)
 
 ---
 
 ## 📫 Connect With Me
 
-- 📧 Email: muhamusman47@gmail.com  
+- 📧 [Email](muhamusman47@outlook.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-usman🇵🇸-10a251280)  
-- 🐙 [GitHub](https://github.com/IIIIXI-git)  
+- 🐙 [GitHub](https://github.com/codedotusman)  
 
 ---
 
