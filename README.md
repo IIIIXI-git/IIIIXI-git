@@ -2,7 +2,8 @@
 <h3 align="center">🧠 Turning curiosity into code & creativity into impact</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1200&center=true&vCenter=true&width=550&height=45&lines=Welcome+to+my+GitHub!;Future+Cybersecurity+Expert+in+training.;Building+projects,+breaking+limits." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1200&center=true&vCenter=true&width=550&height=45&lines=Welcome+to+my+GitHub!;Built+from+127.0.0.1.;Building+projects,+breaking+limits." alt="Typing SVG" />
+
 </p>
 
 ---
