@@ -25,9 +25,7 @@
 
 ---
 
-## 🧰 Toolbox of Chaos
-
-> Tools don't matter. Knowing how to use them does.
+## 🧰 Toolbox
 
 ### 💻 Frontend
 <p>
@@ -56,17 +54,9 @@
 </p>
 
 ---
-
 ## 📊 GitHub Activity
-
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=codedotusman&theme=tokyo-night" alt="activity graph"/>
-
----
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=codedotusman&theme=tokyonight)](https://github.com/codedotusman)
-
 ---
 
 ## 📫 Connect With Me
