@@ -1,5 +1,4 @@
 <h1 align="center">Hey there 👋 I'm Muhammad Usman</h1>
-<h3 align="center">🧠 Turning curiosity into code & creativity into impact</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1200&center=true&vCenter=true&width=550&height=45&lines=Welcome+to+my+GitHub!;Built+from+127.0.0.1.;Building+projects,+breaking+limits." alt="Typing SVG" />
@@ -45,12 +44,9 @@
 
 ### 🐧 Operating Systems
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
-
-
- <img src="https://img.icons8.com/ios-filled/50/000000/mac-os.png" alt="macOS icon" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+<img src="https://img.icons8.com/ios-filled/50/000000/mac-os.png" alt="macOS icon" width="40"/>
 </p>
-
 
 ### 🔗 Version Control & IDE
 <p>
@@ -64,9 +60,6 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codedotusman&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" width="48%" alt="GitHub Stats" />
-
----
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=codedotusman&theme=tokyo-night" alt="activity graph"/>
 
@@ -80,22 +73,6 @@
 
 - 📧 [Email](muhamusman47@outlook.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-usman🇵🇸-10a251280)  
-- 🐙 [GitHub](https://github.com/codedotusman)  
-
----
+- 🐙 [GitHub](https://github.com/codedotusman) 
 
 > 💬 *"Learning to hack is learning to think — not break."*   
-
----
-
-## 🔭 Projects:
-
-- A personal portfolio website    
-- CV built in HTML & CSS
-- Tere Website figma
-- Login page
-  
-## 💭Up-coming Projects: 
-
-- Ethical hacking tool demos
-- Bash scripting challenges  
