@@ -57,12 +57,10 @@
 ## 📊 GitHub Activity
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=codedotusman&theme=tokyo-night" alt="activity graph"/>
----
 
+---
 ## 📫 Connect With Me
 
 - 📧 [Email](muhamusman47@outlook.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-usman🇵🇸-10a251280)  
 - 🐙 [GitHub](https://github.com/codedotusman) 
-
-> 💬 *"Learning to hack is learning to think — not break."*   
