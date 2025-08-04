@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋 I'm Muhammad Usman</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1200&center=true&vCenter=true&width=550&height=45&lines=Welcome+to+my+GitHub!;Built+from+127.0.0.1.;Building+projects,+breaking+limits." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1200&center=true&vCenter=true&width=550&height=45&lines=Welcome+to+my+GitHub!;Built+from+127.0.0.1." alt="Typing SVG" />
 
 </p>
 
