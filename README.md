@@ -40,20 +40,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
 </p>
 
-### 🐧 Operating Systems
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
-<img src="https://img.icons8.com/ios-filled/50/000000/mac-os.png" alt="macOS icon" width="40"/>
-</p>
-
-### 🔗 Version Control & IDE
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
-</p>
-
----
 ## 📊 GitHub Activity
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=codedotusman&theme=tokyo-night" alt="activity graph"/>
