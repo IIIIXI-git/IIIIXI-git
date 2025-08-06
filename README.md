@@ -16,15 +16,6 @@
 
 ---
 
-## 🧠 Skills in Progress
-
-- **Web:** HTML, CSS, JavaScript (next up!)  
-- **Scripting:** Bash, Python  
-- **Tools:** Git, GitHub, VS Code  
-- **Systems:** Linux CLI, Networking Basics, Recon Tools (whois, dig, traceroute)  
-
----
-
 ## 🧰 Toolbox
 
 ### 💻 Frontend
@@ -39,10 +30,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
 </p>
-
-## 📊 GitHub Activity
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=codedotusman&theme=tokyo-night" alt="activity graph"/>
 
 ---
 ## 📫 Connect With Me
