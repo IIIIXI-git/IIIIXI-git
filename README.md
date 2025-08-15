@@ -1,7 +1,7 @@
-<h1 align="center">Hey there 👋 I'm Muhammad Usman</h1>
+<h1 align="center">Hey👋, I'm Muhammad Usman</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1200&center=true&vCenter=true&width=550&height=45&lines=Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1200&center=true&vCenter=true&width=550&height=45&lines=Access+Granted:+Welcome+to+my+GitHub!" alt="Typing SVG" />
 
 </p>
 
@@ -32,8 +32,19 @@
 </p>
 
 ---
+### 📈Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=codedotusman&bg_color=0d1117&color=00ffcc&line=00ffcc&point=ffffff&area=true&hide_border=true)
+
+---
 ## 📫 Connect With Me
 
 - 📧 [Email](muhamusman47@outlook.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-usman🇵🇸-10a251280)  
 - 🐙 [GitHub](https://github.com/codedotusman) 
+
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1200&center=true&vCenter=true&width=550&height=45&lines=Thanks+for+Visiting+my+Github!" alt="Typing SVG" />
+</p>
